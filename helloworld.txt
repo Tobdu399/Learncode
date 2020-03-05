@@ -1,0 +1,12 @@
+print("Hello World!")
+
+print()
+
+print("   /|")
+print("  / |")
+print(" /  |")
+print("/___|")
+
+print()
+
+print("@#$%1234567890")
