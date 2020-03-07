@@ -1,2 +1,2 @@
 # PythonCodes
-Kaikki Python tutoriaalin koodit ovat täällä
+Kaikki Python tutoriaalin kopioitavissa olevat koodit ovat täällä
