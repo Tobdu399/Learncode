@@ -1,0 +1,17 @@
+# Ensin funktiomäärittelyt
+def tervehdi():
+  print("Terveisiä funktiosta 'tervehdi'")
+  
+  
+def main():
+  print("Kokeillaan onnistuuko funktion kutsuminen:")
+  tervehdi()
+  
+  print("Näyttää siltä, kokeillaan vielä:")
+  tervehdi()
+  tervehdi()
+  tervehdi()
+  
+  
+# Ja sitten ohjelma, joka käyttää funktioita!
+main()
