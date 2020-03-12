@@ -1,0 +1,3 @@
+function tervehdi() {
+    console.log("Terveisiä funktiosta 'tervehdi!'");
+}

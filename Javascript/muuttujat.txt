@@ -1,0 +1,26 @@
+// Alkuperäinen tarina
+
+console.log("Olipa kerran Matti.");
+console.log("Hän oli 30-vuotias.");
+console.log("Hän tykkäsi nimestä Matti,")
+console.log("muttei tykännyt olla 30-vuotias.");
+
+console.log();
+console.log("----------------------------------------------");
+console.log();
+
+// Muutettu tarina:
+
+// Tehdään kaksi muuttujaa, jotka sisältävät tarinan henkilön nimen, ja iän:
+// Henkilön nimi pitää kirjoittaa lainausmerkkien sisään, koska
+// se sisältää kirjaimia (str / string)
+var henkilon_nimi = "Jari";
+
+// Henkilön ikää ei tarvitse laittaa lainausmerkkien sisään, koska se on numero (int / integer)
+var henkilon_ika = 58;
+
+// Javascriptissa tekstin sekaan voidaan lisätä muuttujia liittämällä se tekstiin plus merkeillä
+console.log("Olipa kerran " + henkilon_nimi + ".");
+console.log("Hän oli " + henkilon_ika + ".");
+console.log("Hän tykkäsi nimestä " + henkilon_nimi + ",");
+console.log("muttei tykännyt olla " + henkilon_ika + "-vuotias");

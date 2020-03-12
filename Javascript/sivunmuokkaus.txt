@@ -1,0 +1,4 @@
+funktion uusiOtsikko() {
+    var otsikko = document.getElementById("<otsikon id>");
+    otsikko.innerHTML = "Javascriptilla muokattu otsikko";
+}

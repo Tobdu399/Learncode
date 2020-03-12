@@ -1,0 +1,2 @@
+console.log("Hello World from Console")     // Kirjoita tämä selaimen konsoliin
+alert("Hello World from Textbox")	    // Kirjoita tämä tekstiboksiin
